@@ -1,0 +1,212 @@
+{
+    "agi": [
+        {
+            "site": "Google Scholar",
+            "title": "Levels of AGI for Operationalizing Progress on the Path to AGI",
+            "link": "https://storage.prod.researchhub.com/uploads/papers/2023/11/17/2311.02462.pdf",
+            "abstract": "\u2026 AGI. To develop our framework, we analyze existing definitions of AGI, and distill six principles\nthat a useful ontology for AGI \u2026 stages along the path toward AGI, rather than focusing on \u2026",
+            "score": 100,
+            "ranking_reason": "Base Score: 100, Abstract Match: 100.0%, Scaled Score: 100.0"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Position: Levels of AGI for operationalizing progress on the path to AGI",
+            "link": "https://openreview.net/forum?id=0ofzEysK2D",
+            "abstract": "\u2026 to AGI. To develop our framework, we analyze existing definitions of AGI, and distill six principles\nthat a useful ontology for AGI \u2026 With these principles in mind, we propose \u201cLevels of AGI\u201d \u2026",
+            "score": 97,
+            "ranking_reason": "Base Score: 96, Abstract Match: 100.0%, Scaled Score: 97.3"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "AGI safety literature review",
+            "link": "https://arxiv.org/abs/1805.01109",
+            "abstract": "\u2026 We also cover works on how best to think of AGI from the limited knowledge we have today,\npredictions for when AGI will first be \u2026 Finally, we review the current public policy on AGI. \u2026",
+            "score": 93,
+            "ranking_reason": "Base Score: 90, Abstract Match: 100.0%, Scaled Score: 93.3"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Artificial general intelligence (AGI) for education",
+            "link": "https://www.academia.edu/download/106269812/2304.12479.pdf",
+            "abstract": "\u2026 This work reviews AGI\u2019s key concepts, capabilities, scope, and potential within future \u2026\nfaced by AGI and how AGI will affect human educators. The development of AGI necessitates \u2026",
+            "score": 93,
+            "ranking_reason": "Base Score: 90, Abstract Match: 100.0%, Scaled Score: 93.3"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Agi for agriculture",
+            "link": "https://arxiv.org/abs/2304.06136",
+            "abstract": "\u2026 Therefore, in this article, we will discuss the applications of AGI in \u2026 AGI technology can\napply computer vision technology to deeper and wider fields. In the field of agriculture, AGI \u2026",
+            "score": 93,
+            "ranking_reason": "Base Score: 89, Abstract Match: 100.0%, Scaled Score: 92.7"
+        }
+    ],
+    "quantum learning": [
+        {
+            "site": "Google Scholar",
+            "title": "Quantum learning without quantum memory",
+            "link": "https://www.nature.com/articles/srep00708",
+            "abstract": "\u2026 We have presented a supervised quantum learning machine that classifies a single qubit \u2026\nThis learning machine does not require quantum memory and can also be reused without \u2026",
+            "score": 100,
+            "ranking_reason": "Base Score: 100, Abstract Match: 100.0%, Scaled Score: 100.0"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Neural networks with quantum architecture and quantum learning",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cta.619",
+            "abstract": "\u2026 the two key problems facing quantum neural networks: \u2026 efficient use of quantum superposition\nin the learning algorithm. \u2026 quantum operator is used in connection with learning 23, 24. \u2026",
+            "score": 98,
+            "ranking_reason": "Base Score: 97, Abstract Match: 100.0%, Scaled Score: 98.0"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Quantum learning robust against noise",
+            "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.92.012327",
+            "abstract": "\u2026 We have defined the problem of quantum learning from a noisy quantum example oracle \u2026\ntime from corrupted quantum queries. In contrast, it appears to be intractable to learn this class \u2026",
+            "score": 95,
+            "ranking_reason": "Base Score: 93, Abstract Match: 100.0%, Scaled Score: 95.3"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Guest column: A survey of quantum learning theory",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3106700.3106710",
+            "abstract": "\u2026 quantum learning theory: the theoretical aspects of machine learning using quantum\ncomputers\u2026 We describe the main results known for three models of learning: exact learning from \u2026",
+            "score": 93,
+            "ranking_reason": "Base Score: 89, Abstract Match: 100.0%, Scaled Score: 92.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Quantum learning and universal quantum matching machine",
+            "link": "https://journals.aps.org/pra/abstract/10.1103/PhysRevA.66.022303",
+            "abstract": "\u2026 ii The delay due to the learning process is not long. iii The strategy should be simple and \u2026\nthe quantum learning strategy and to apply it to the problem of distinguishing quantum systems \u2026",
+            "score": 89,
+            "ranking_reason": "Base Score: 83, Abstract Match: 100.0%, Scaled Score: 88.7"
+        }
+    ],
+    "machine unlearning": [
+        {
+            "site": "Google Scholar",
+            "title": "Machine unlearning",
+            "link": "https://ieeexplore.ieee.org/abstract/document/9519428/",
+            "abstract": "\u2026 unlearning. Under no distributional assumptions, for simple learning tasks, we observe that\nSISA training improves time to unlearn \u2026 to practical data governance in machine unlearning. \u2026",
+            "score": 100,
+            "ranking_reason": "Base Score: 100, Abstract Match: 100.0%, Scaled Score: 100.0"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "A survey of machine unlearning",
+            "link": "https://arxiv.org/abs/2209.02299",
+            "abstract": "\u2026 The aim of this paper is to supply a complete examination of research studies on machine\nunlearning as well as a discussion on potential new research directions in machine unlearning\u2026",
+            "score": 99,
+            "ranking_reason": "Base Score: 98, Abstract Match: 100.0%, Scaled Score: 98.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "When machine unlearning jeopardizes privacy",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3460120.3484756",
+            "abstract": "\u2026 In the context of machine learning (ML), the right to be \u2026 as machine unlearning. While\noriginally designed to protect the privacy of the data owner, we argue that machine unlearning may \u2026",
+            "score": 95,
+            "ranking_reason": "Base Score: 92, Abstract Match: 100.0%, Scaled Score: 94.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Towards making systems forget with machine unlearning",
+            "link": "https://ieeexplore.ieee.org/abstract/document/7163042/",
+            "abstract": "\u2026 we call machine unlearning, or simply unlearning. We present a general, efficient unlearning\n\u2026 statistical query learning in which many machine learning algorithms can be implemented. \u2026",
+            "score": 94,
+            "ranking_reason": "Base Score: 91, Abstract Match: 100.0%, Scaled Score: 94.0"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "A review on machine unlearning",
+            "link": "https://link.springer.com/article/10.1007/s42979-023-01767-4",
+            "abstract": "\u2026 the concept of machine unlearning by describing the security threats in machine learning\nmodels and how to protect users\u2019 privacy from being violated using machine learning platforms\u2026",
+            "score": 89,
+            "ranking_reason": "Base Score: 84, Abstract Match: 100.0%, Scaled Score: 89.3"
+        }
+    ],
+    "sustainable software design": [
+        {
+            "site": "Google Scholar",
+            "title": "Green software development model: An approach towards sustainable software development",
+            "link": "https://ieeexplore.ieee.org/abstract/document/6139638/",
+            "abstract": "\u2026 Re-use is another important factor for a design to be sustainable. Re-useable design can\navoid \u2026 extensibility with the software systems. These kinds of approaches should be used in the \u2026",
+            "score": 98,
+            "ranking_reason": "Base Score: 97, Abstract Match: 100.0%, Scaled Score: 98.0"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Sustainable software development: an agile perspective",
+            "link": "https://dl.acm.org/doi/abs/10.5555/1076970",
+            "abstract": "\u2026 and cost-effectively in software design improvements Leverage the fundamentals of the\ncraft of software development Integrate sustainable processes with Agile and traditional \u2026",
+            "score": 89,
+            "ranking_reason": "Base Score: 84, Abstract Match: 100.0%, Scaled Score: 89.3"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "A model and selected instances of green and sustainable software",
+            "link": "https://link.springer.com/chapter/10.1007/978-3-642-15479-9_24",
+            "abstract": "\u2026 understanding of Sustainable Software. Of \u2026 Sustainable Software might be. The answers\nlead to the following categories that sharpen the picture towards a definition: software design \u2026",
+            "score": 89,
+            "ranking_reason": "Base Score: 83, Abstract Match: 100.0%, Scaled Score: 88.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Sustainability design and software: The karlskrona manifesto",
+            "link": "https://ieeexplore.ieee.org/abstract/document/7202997/",
+            "abstract": "\u2026 -thinking sustainable software design, drafted collaboratively in an open and sustainable \u2026\neffectively communicating key issues, goals, values and principles of sustainability design. \u2026",
+            "score": 85,
+            "ranking_reason": "Base Score: 77, Abstract Match: 100.0%, Scaled Score: 84.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "The GREENSOFT Model: A reference model for green and sustainable software and its engineering",
+            "link": "https://www.sciencedirect.com/science/article/pii/S2210537911000473",
+            "abstract": "\u2026 As a solution to cope with sustainability issues during software design and development, \u2026\nDesign\u201d, which tries to transfer the Bauhaus design principles to immaterial software products. \u2026",
+            "score": 82,
+            "ranking_reason": "Base Score: 90, Abstract Match: 66.66666666666666%, Scaled Score: 82.0"
+        }
+    ],
+    "common sense reasoning to agentic ai": [
+        {
+            "site": "Google Scholar",
+            "title": "Common sense is all you need",
+            "link": "https://arxiv.org/abs/2501.06642",
+            "abstract": "\u2026 This manuscript argues that integrating common sense into AI systems is essential for \u2026\n* The disparity suggests that these AI systems lack the common sense reasoning that allows \u2026",
+            "score": 87,
+            "ranking_reason": "Base Score: 97, Abstract Match: 66.66666666666666%, Scaled Score: 86.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Common-sense attributions of AI agency: Evidence from an experiment with ChatGPT",
+            "link": "https://www.taylorfrancis.com/chapters/edit/10.4324/9781032626192-18/common-sense-attributions-ai-agency-fabian-anicker-florian-golo-fla%C3%9Fhoff",
+            "abstract": "\u2026 starting an argument with your coffee mug in front of other people and you will see what we\nmean). Referring to Martin Bauer\u2019s distinction between different meanings of common sense (\u2026",
+            "score": 83,
+            "ranking_reason": "Base Score: 99, Abstract Match: 50.0%, Scaled Score: 82.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Agentic Relationship Dynamics in Human-AI Collaboration: A study of interactions with GPT-based agentic IS artifacts",
+            "link": "https://scholarspace.manoa.hawaii.edu/items/029387d5-112d-44a4-b555-156b18f8b77b",
+            "abstract": "\u2026 Relevant for this condition is the tokenization of input and output by GPT-based agentic\nIS artifacts and their built-in token limitations. By design, ostensible for performance reasons, \u2026",
+            "score": 72,
+            "ranking_reason": "Base Score: 100, Abstract Match: 16.666666666666664%, Scaled Score: 72.0"
+        },
+        {
+            "site": "CORE (Research Papers)",
+            "title": "Agent AI: Surveying the Horizons of Multimodal Interaction",
+            "link": "https://core.ac.uk/works/157265710/?t=1464a39ec9275a32a84ef31fe61740c9-157265710",
+            "abstract": "No abstract available",
+            "score": 67,
+            "ranking_reason": "Base Score: 100, Abstract Match: 0.0%, Scaled Score: 66.7"
+        },
+        {
+            "site": "Google Scholar",
+            "title": "Building Appropriate Mental Models: What Users Know and Want to Know about an Agentic AI Chatbot",
+            "link": "https://dl.acm.org/doi/abs/10.1145/3708359.3712071",
+            "abstract": "\u2026 Thus, as we might have expected for a novel system, participants had significant gaps in\ntheir understanding of an agentic AI system in which a model is reasoning about which actions \u2026",
+            "score": 61,
+            "ranking_reason": "Base Score: 67, Abstract Match: 50.0%, Scaled Score: 61.3"
+        }
+    ]
+}

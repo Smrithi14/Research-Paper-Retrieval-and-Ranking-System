@@ -1,0 +1,8 @@
+mkdir streamlit_project
+cd streamlit_project
+notepad app.py
+
+streamlit hello
+
+streamlit run app.py
+
